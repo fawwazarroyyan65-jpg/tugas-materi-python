@@ -1,0 +1,28 @@
+{
+    "judul": "rukun islam",
+    "jumlah":5,
+    "status kawin":false,
+    "solat sunnah":"sholat dhuha",
+    "rukun":["syahadat","sholat","zakat","puasa,","haji"],
+    "info":{
+        "halaman":200,
+        "rating":9.5
+    },
+    "suroh":[{
+        "no":1,
+        "nama surah":"al fatihah",
+        "ayat":7,
+        "turun":"makkah"
+    },
+    {
+    "no":2,
+    "surah":"al baqorah",
+    "ayat":286,
+    "turun":"makkah"
+    }
+
+]
+    
+    
+
+}
